@@ -4,6 +4,6 @@
 	<title>Learning about git</title>
 </head>
 <body>
-	Currently learning how to code.
+	Learning how to code.
 </body>
 </html>
